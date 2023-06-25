@@ -1,5 +1,5 @@
 # Automatic_folder_cleaner
-The Automatic Folder Cleaner project is a tool that helps users to automatically organize their computer files and folders. The tool automatically scans designated folders and moves files to the appropriate location based on file type, name, or other criteria. This helps to keep the computer's file system organized and clutter-free.
+The Automatic Folder Cleaner project is a tool that helps users to automatically organize their computer files and folders. The tool automatically scans designated folders and moves files to the appropriate location based on file type, name, or other criteria. This helps to keep the computer's file system organized and clutter-free. 
 
 The project is typically implemented as a script or application that runs in the background and periodically checks the designated folders for new files. When a new file is detected, the tool will apply a set of rules to determine where the file should be moved. For example, an image file might be moved to a folder labeled "Pictures," while a document file might be moved to a folder labeled "Documents."
 
